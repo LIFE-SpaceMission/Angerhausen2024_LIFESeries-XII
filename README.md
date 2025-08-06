@@ -37,3 +37,5 @@ Link to paper: 	https://iopscience.iop.org/article/10.3847/1538-3881/ad1f4b
 	- `trappist_updatedclouds`: Trappist-1 
 	Each file contains: Wavelegnth [microns] and Spectral Radiance [W/sr/m2/um] at varying abundances of N2O. Columns are labeled as: NoN2O (no N2O in the spectrum), 1Tmol, 10Tmol, 100Tmol molecule (1, 10, 100 Teramol/yr N2O.)
   
+
+> **Note:** The Jupyter notebook  [conversion.ipynb](conversion.ipynb) allows you to convert to LIFEsim-friendly units to reproduce the Figures in the paper. 
